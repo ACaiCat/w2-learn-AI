@@ -28,7 +28,7 @@ def roll_dice(num_dice: int) -> int:
     total_points = 0
     count = 0
     while count < num_dice:
-        total_points += random.randint(0, 6)
+        total_points += random.randint(1, 6)
         count += 1
     return total_points
 
