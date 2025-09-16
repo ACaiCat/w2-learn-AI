@@ -146,5 +146,8 @@ def main_battle_loop():
             print("长门寄了，娜比娅获胜~")
             break
 
+        nabiya_defense_bonus = 0
+        nagato_defense_bonus = 0
+
         turn = turn + 1
         time.sleep(1)
