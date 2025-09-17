@@ -4,7 +4,7 @@ from constants import GIFT_EFFECTS, DIALOGUES
 
 
 class Character:
-    def __init__(self, name, role, affinity=0):
+    def __init__(self, name: str, role: str, affinity=0):
         self.name = name
         self.role = role
         self.affinity = affinity

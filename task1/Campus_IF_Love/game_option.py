@@ -14,3 +14,4 @@ class GameOption(Enum):
             return cls(int(input_value))
         except (ValueError, TypeError):
             return cls.INVALID
+

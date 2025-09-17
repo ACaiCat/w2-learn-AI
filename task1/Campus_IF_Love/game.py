@@ -87,7 +87,7 @@ class Game:
             print("姐姐略显失望地笑了笑，轻声说了句『抱歉打扰了』便转身离开。")
             return False
 
-    def story_loop(self):
+    def story_loop(self) -> None:
         """角色线主循环"""
         while True:
             print("\n你要做什么？")
@@ -108,7 +108,7 @@ class Game:
                                            "\n请输入："))
 
                         self.current_target.give_gift(gift_names[choice - 1])
-                    except (TypeError, IndexError):
+                    except (TypeError, IndexError, ValueError):
                         print("无效输入，请重新选择。")
 
                 case GameOption.STATUS:
