@@ -1,0 +1,35 @@
+import random
+
+from enums import Type
+from models import Pokemon, Skill, ShieldBuff
+
+
+class Squirtle(Pokemon):
+    def __init__(self, bot: bool):
+        super().__init__(name="杰尼龟",
+                         health_point=80,
+                         damage=25,
+                         defense=20,
+                         type_=Type.WATER,
+                         evasion_rate=20,
+                         skills=
+                         [
+                             Skill(name="水枪",
+                                   action=aqua_jet),
+                             Skill(name="护盾",
+                                   action=shield),
+                         ],
+                         bot=bot)
+
+    def on_pre_attacked(self) -> None:
+        if random.randint(1, 2) == 1:
+            self.damage_reduction = 30
+
+
+def aqua_jet(pokemon: Pokemon, enemy: Pokemon) -> None:
+    enemy.attacked(pokemon, int(pokemon.damage * 1.4))
+
+
+def shield(pokemon: Pokemon, enemy: Pokemon) -> None:
+    buff = ShieldBuff()
+    pokemon.add_buff(buff)
