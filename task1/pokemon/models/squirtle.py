@@ -23,7 +23,11 @@ class Squirtle(Pokemon):
 
     def on_pre_attacked(self) -> None:
         if random.randint(1, 2) == 1:
+            print(f"[{self.name}]通过被动减少了30%的伤害!")
             self.damage_reduction = 30
+
+    def on_post_attacked(self) -> None:
+        self.damage_reduction = 0
 
 
 def aqua_jet(pokemon: Pokemon, enemy: Pokemon) -> None:

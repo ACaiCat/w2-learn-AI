@@ -23,7 +23,7 @@ class Bulbasaur(Pokemon):
 
     def on_turn_start(self) -> None:
         recovery = self.max_health_point / 10
-        print(f"[{self.name}]恢复了[{recovery}]点生命值! (剩余HP: {self.health_point})")
+        print(f"[{self.name}]通过被动恢复了[{recovery}]点生命值! (剩余HP: {self.health_point})")
         self.health_point += recovery
 
 

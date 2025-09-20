@@ -22,6 +22,7 @@ class PikaChu(Pokemon):
                          bot=bot)
 
     def on_mise_attack(self) -> None:
+        print(f"[{self.name}]触发被动额外施展一次技能!")
         self.select_skill()
 
 
