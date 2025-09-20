@@ -1,4 +1,5 @@
 import random
+from typing import Optional
 
 from enums import Type
 from . import Skill, Buff
@@ -21,7 +22,7 @@ class Pokemon:
         self.damage_reduction: int = 0
         self.miss_bonus: int = 0
         self.bot: bool = bot
-        self.enemy: "Pokemon"
+        self.enemy: Optional["Pokemon"] = None
 
     def set_enemy(self, enemy: "Pokemon"):
         self.enemy: "Pokemon" = enemy
@@ -43,8 +44,13 @@ class Pokemon:
         self.select_skill()
 
     def perform_skill(self, skill: Skill) -> None:
-        print(f"[{self.name}]正在施展「{skill.name}」...")
-        skill.perform(self, self.enemy)
+        if skill.current_turns == skill.turns_required:
+            print(f"[{self.name}]正在施展「{skill.name}」...")
+            skill.perform(self, self.enemy)
+            skill.current_turns = 0
+        else:
+            skill.current_turns += 1
+            print(f"[{self.name}]正在准备「{skill.name}」({skill.current_turns}/{skill.turns_required})...")
 
     def attacked(self, pokemon: "Pokemon", damage: int) -> bool:
         pokemon.on_pre_attack()
