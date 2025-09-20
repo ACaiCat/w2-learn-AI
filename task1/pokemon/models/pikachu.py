@@ -1,9 +1,10 @@
 import random
 
 from enums import Type
-from models import Pokemon, Skill, ParalysisBuff
+from models import Pokemon, Skill, ParalysisBuff, register_pokemon
 
 
+@register_pokemon
 class PikaChu(Pokemon):
     def __init__(self, bot: bool):
         super().__init__(name="皮卡丘",
@@ -22,6 +23,7 @@ class PikaChu(Pokemon):
                          bot=bot)
 
     def on_mise_attack(self) -> None:
+        print(f"[{self.name}]触发被动额外施展一次技能!")
         self.select_skill()
 
 

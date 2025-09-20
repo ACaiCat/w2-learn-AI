@@ -37,15 +37,16 @@ class ParasiticBuff(Buff):
 
     default_duration = 3
 
-    def __init__(self, enemy: "Pokemon"):
+    def __init__(self):
         super().__init__(self.default_duration)
-        self.enemy = enemy
 
     def apply(self, pokemon: "Pokemon"):
-        suck_blood = self.enemy.max_health_point / 10
-
-        self.enemy.health_point -= suck_blood
+        suck_blood = int(pokemon.enemy.max_health_point / 10)
+        pokemon.enemy.health_point -= suck_blood
         pokemon.health_point += suck_blood
+        print(
+            f"[{pokemon.name}]使用{self.name}从[{pokemon.enemy.name}]吸收了{suck_blood}点生命值！(剩余HP: {pokemon.health_point})"
+        )
 
 
 class ParalysisBuff(Buff):
@@ -57,6 +58,7 @@ class ParalysisBuff(Buff):
         super().__init__(self.default_duration)
 
     def apply(self, pokemon: "Pokemon"):
+        print(f"[{pokemon.name}]因{self.name}跳过这一回合！")
         pokemon.skip_turn = True
 
 
@@ -83,3 +85,4 @@ class BurnBuff(Buff):
     def apply(self, pokemon: "Pokemon"):
         damage = 10
         pokemon.health_point -= damage
+        print(f"[{pokemon.name}]因{self.name}减少了{damage}点生命值！")

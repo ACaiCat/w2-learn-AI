@@ -6,12 +6,20 @@ from . import Skill, Buff
 
 
 class Pokemon:
-
-    def __init__(self, name: str, health_point: int, type_: Type, damage: int, defense: int, evasion_rate: int,
-                 skills: list[Skill], bot: bool) -> None:
+    def __init__(
+        self,
+        name: str = "",
+        health_point: int = 0,
+        type_: Type = Type.DARK,
+        damage: int = 0,
+        defense: int = 0,
+        evasion_rate: int = 0,
+        skills: Optional[list[Skill]] = None,
+        bot: bool = False,
+    ) -> None:
         self.name: str = name
         self.max_health_point: int = health_point
-        self.health_point: int = health_point
+        self._health_point: int = health_point
         self.type: Type = type_
         self.damage: int = damage
         self.defense: int = defense
@@ -23,6 +31,20 @@ class Pokemon:
         self.miss_bonus: int = 0
         self.bot: bool = bot
         self.enemy: Optional["Pokemon"] = None
+        self.name = self.name + (" (电脑)" if self.bot else "")
+
+    @property
+    def health_point(self):
+        return self._health_point
+
+    @health_point.setter
+    def health_point(self, value: int):
+        self._health_point = max(value, 0)
+        self._health_point = min(self._health_point, self.max_health_point)
+
+    @property
+    def dead(self) -> bool:
+        return self.health_point <= 0
 
     def set_enemy(self, enemy: "Pokemon"):
         self.enemy: "Pokemon" = enemy
@@ -50,7 +72,9 @@ class Pokemon:
             skill.current_turns = 0
         else:
             skill.current_turns += 1
-            print(f"[{self.name}]正在准备「{skill.name}」({skill.current_turns}/{skill.turns_required})...")
+            print(
+                f"[{self.name}]正在准备「{skill.name}」({skill.current_turns}/{skill.turns_required})..."
+            )
 
     def attacked(self, pokemon: "Pokemon", damage: int) -> bool:
         pokemon.on_pre_attack()
@@ -67,7 +91,7 @@ class Pokemon:
             damage *= 2
             print("效果拔群，", end="")
 
-        if not_very_effective:
+        elif not_very_effective:
             damage /= 2
             print("效果不佳，", end="")
 
@@ -83,8 +107,8 @@ class Pokemon:
         return True
 
     def check_dead(self) -> bool:
-        if self.health_point <= 0:
-            print(f"[{self.name}]寄了, {self.enemy.name}获胜!")
+        if self.dead:
+            print(f"[{self.name}]寄了, [{self.enemy.name}]获胜!")
             return True
         return False
 
@@ -92,6 +116,7 @@ class Pokemon:
         return random.randint(1, 100) <= self.evasion_rate + self.miss_bonus
 
     def add_buff(self, buff: Buff):
+        self.buffs = [b for b in self.buffs if b.name != buff.name]
         self.buffs.append(buff)
 
     def is_super_effective(self) -> bool:
@@ -112,12 +137,17 @@ class Pokemon:
         if self.bot:
             skill = random.choice(self.skills)
         else:
-
             while True:
                 try:
-                    skill_options = [f"{index + 1}. {skill.name}" for index, skill in enumerate(self.skills)]
-                    choice = input(f"你的[{self.name}]的技能: \n"
-                                   f"\n".join(skill_options))
+                    skill_options = [
+                        f"{index + 1}. {skill.name}"
+                        for index, skill in enumerate(self.skills)
+                    ]
+                    choice = input(
+                        f"你的[{self.name}]的技能: \n"
+                        + f"\n".join(skill_options)
+                        + "\n"
+                    )
                     index = int(choice) - 1
                     if index >= len(self.skills) or index < 0:
                         print("你选择的选项无效，请重新选择！")
@@ -130,20 +160,14 @@ class Pokemon:
         # noinspection PyUnboundLocalVariable
         self.perform_skill(skill)
 
-    def on_pre_attack(self) -> None:
-        ...
+    def on_pre_attack(self) -> None: ...
 
-    def on_post_attack(self) -> None:
-        ...
+    def on_post_attack(self) -> None: ...
 
-    def on_mise_attack(self) -> None:
-        ...
+    def on_mise_attack(self) -> None: ...
 
-    def on_pre_attacked(self) -> None:
-        ...
+    def on_pre_attacked(self) -> None: ...
 
-    def on_post_attacked(self) -> None:
-        ...
+    def on_post_attacked(self) -> None: ...
 
-    def on_turn_start(self) -> None:
-        ...
+    def on_turn_start(self) -> None: ...
