@@ -3,9 +3,9 @@ import time
 from typing import Type
 from models import get_all_pokemons, Pokemon
 
-if __name__ == "__main__":
-    POKEMON_COUNT_REQUIRED = 3
+POKEMON_COUNT_REQUIRED = 3
 
+if __name__ == "__main__":
     registered_pokemons: list[Type[Pokemon]] = get_all_pokemons()
     player_pokemons: list[Pokemon] = []
 
