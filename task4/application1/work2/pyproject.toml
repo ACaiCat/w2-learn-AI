@@ -1,0 +1,12 @@
+[project]
+name = "chat-mood-classifier"
+version = "0.1.0"
+description = "分类聊天和表情的心情"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=12.2.0",
+    "pydantic>=2.12.5",
+    "pydantic-settings>=2.13.1",
+    "zai-sdk>=0.2.2",
+]
