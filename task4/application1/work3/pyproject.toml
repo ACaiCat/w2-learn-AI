@@ -1,13 +1,12 @@
 [project]
-name = "chat-mood-classifier"
+name = "intel-to-json"
 version = "0.1.0"
-description = "分类聊天和表情的心情"
+description = "将奇波情报转化为JSON"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "pillow>=12.2.0",
+    "json-repair>=0.59.2",
     "pydantic>=2.12.5",
     "pydantic-settings>=2.13.1",
-    "pytest>=9.0.3",
     "zai-sdk>=0.2.2",
 ]

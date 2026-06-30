@@ -9,4 +9,5 @@ dependencies = [
     "fake-useragent>=2.2.0",
     "httpx>=0.28.1",
     "pandas>=2.3.3",
+    "ruff>=0.15.20",
 ]

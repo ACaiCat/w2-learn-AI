@@ -17,5 +17,3 @@ class Notice:
     @property
     def url(self) -> str:
         return BASE_URL + self.path
-
-

@@ -18,5 +18,5 @@ class Attach:
         return {
             "name": self.name,
             "download_times": self.download_times,
-            "url": self.url
+            "url": self.url,
         }

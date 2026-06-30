@@ -1,0 +1,4648 @@
+[
+  {
+    "name": "角色_1",
+    "element": "水",
+    "hobbies": [
+      "培育",
+      "音乐"
+    ],
+    "kibot_partner": [
+      {
+        "species": "岩石龟",
+        "color": "银",
+        "bond_level": 10,
+        "coordinates": [
+          13.7,
+          67.39
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "金",
+        "bond_level": 9,
+        "coordinates": [
+          -66.6,
+          22.86
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "红",
+        "bond_level": 7,
+        "coordinates": [
+          106.09,
+          76.06
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "黑",
+        "bond_level": 9,
+        "coordinates": [
+          -15.93,
+          42.57
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "金",
+        "bond_level": 7,
+        "coordinates": [
+          1.78,
+          -83.8
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          52.72,
+          -67.57
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "黑",
+        "bond_level": 1,
+        "coordinates": [
+          -20.32,
+          -70.06
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "蓝",
+        "bond_level": 5,
+        "coordinates": [
+          -162.16,
+          -86.44
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黑",
+        "bond_level": 9,
+        "coordinates": [
+          14.51,
+          -18.77
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "靛",
+        "bond_level": 5,
+        "coordinates": [
+          135.28,
+          -52.41
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "黄",
+        "bond_level": 10,
+        "coordinates": [
+          123.58,
+          48.47
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "黑",
+        "bond_level": 9,
+        "coordinates": [
+          -15.93,
+          42.57
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "黑",
+        "bond_level": 9,
+        "coordinates": [
+          178.65,
+          -56.88
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "粉",
+        "bond_level": 5,
+        "coordinates": [
+          -110.64,
+          -49.31
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "白",
+        "bond_level": 6,
+        "coordinates": [
+          3.33,
+          -5.7
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "金",
+        "bond_level": 8,
+        "coordinates": [
+          98.15,
+          74.88
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "橙",
+        "bond_level": 8,
+        "coordinates": [
+          104.43,
+          -35.06
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "银",
+        "bond_level": 3,
+        "coordinates": [
+          116.58,
+          -4.9
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "紫",
+        "bond_level": 8,
+        "coordinates": [
+          67.19,
+          1.82
+        ],
+        "is_friendly": true
+      }
+    ]
+  },
+  {
+    "name": "角色_2",
+    "element": "暗",
+    "hobbies": [
+      "收集",
+      "旅行",
+      "探险"
+    ],
+    "kibot_partner": [
+      {
+        "species": "雷电鹰",
+        "color": "紫",
+        "bond_level": 1,
+        "coordinates": [
+          -11.2,
+          -83.9
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 2,
+        "coordinates": [
+          96.51,
+          -58.94
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "黑",
+        "bond_level": 5,
+        "coordinates": [
+          2.92,
+          2.93
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 4,
+        "coordinates": [
+          72.15,
+          -30.83
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "橙",
+        "bond_level": 1,
+        "coordinates": [
+          133.69,
+          -24.88
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "银",
+        "bond_level": 6,
+        "coordinates": [
+          -65.7,
+          50.19
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "橙",
+        "bond_level": 6,
+        "coordinates": [
+          139.64,
+          -2.99
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "橙",
+        "bond_level": 1,
+        "coordinates": [
+          133.69,
+          -24.88
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "白",
+        "bond_level": 9,
+        "coordinates": [
+          22.68,
+          -36.77
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "紫",
+        "bond_level": 1,
+        "coordinates": [
+          -11.2,
+          -83.9
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "黄",
+        "bond_level": 10,
+        "coordinates": [
+          38.22,
+          -44.64
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "紫",
+        "bond_level": 9,
+        "coordinates": [
+          177.43,
+          52.25
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "黄",
+        "bond_level": 3,
+        "coordinates": [
+          -82.96,
+          -57.88
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "红",
+        "bond_level": 10,
+        "coordinates": [
+          -135.23,
+          -22.16
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "绿",
+        "bond_level": 5,
+        "coordinates": [
+          -50.43,
+          -15.48
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "红",
+        "bond_level": 4,
+        "coordinates": [
+          -161.81,
+          34.43
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "金",
+        "bond_level": 6,
+        "coordinates": [
+          -146.32,
+          67.96
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "绿",
+        "bond_level": 3,
+        "coordinates": [
+          -49.61,
+          -34.31
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "粉",
+        "bond_level": 10,
+        "coordinates": [
+          134.5,
+          69.2
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "白",
+        "bond_level": 5,
+        "coordinates": [
+          -179.25,
+          9.53
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 4,
+        "coordinates": [
+          72.15,
+          -30.83
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "粉",
+        "bond_level": 3,
+        "coordinates": [
+          59.09,
+          29.48
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "黄",
+        "bond_level": 9,
+        "coordinates": [
+          -47.07,
+          -84.22
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "黑",
+        "bond_level": 5,
+        "coordinates": [
+          2.92,
+          2.93
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "金",
+        "bond_level": 1,
+        "coordinates": [
+          108.45,
+          -70.28
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "蓝",
+        "bond_level": 3,
+        "coordinates": [
+          -97.38,
+          -88.41
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "橙",
+        "bond_level": 5,
+        "coordinates": [
+          143.43,
+          -15.47
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "紫",
+        "bond_level": 1,
+        "coordinates": [
+          117.41,
+          45.63
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "金",
+        "bond_level": 6,
+        "coordinates": [
+          -146.32,
+          67.96
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "绿",
+        "bond_level": 9,
+        "coordinates": [
+          -41.81,
+          -9.83
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          -99.49,
+          13.18
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "紫",
+        "bond_level": 9,
+        "coordinates": [
+          177.43,
+          52.25
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          -99.49,
+          13.18
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "紫",
+        "bond_level": 10,
+        "coordinates": [
+          170.76,
+          -19.64
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "靛",
+        "bond_level": 10,
+        "coordinates": [
+          68.28,
+          76.88
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "红",
+        "bond_level": 4,
+        "coordinates": [
+          -161.81,
+          34.43
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "红",
+        "bond_level": 8,
+        "coordinates": [
+          -61.8,
+          -89.31
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "橙",
+        "bond_level": 4,
+        "coordinates": [
+          159.95,
+          84.56
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "黑",
+        "bond_level": 9,
+        "coordinates": [
+          -105.56,
+          -14.39
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "橙",
+        "bond_level": 1,
+        "coordinates": [
+          133.69,
+          -24.88
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "黄",
+        "bond_level": 7,
+        "coordinates": [
+          -54.49,
+          84.78
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "白",
+        "bond_level": 9,
+        "coordinates": [
+          22.68,
+          -36.77
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "黑",
+        "bond_level": 10,
+        "coordinates": [
+          2.78,
+          -49.78
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "白",
+        "bond_level": 3,
+        "coordinates": [
+          19.81,
+          -42.94
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "红",
+        "bond_level": 7,
+        "coordinates": [
+          76.17,
+          81.83
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -141.82,
+          -11.31
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "绿",
+        "bond_level": 7,
+        "coordinates": [
+          -162.04,
+          70.88
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "橙",
+        "bond_level": 6,
+        "coordinates": [
+          139.64,
+          -2.99
+        ],
+        "is_friendly": false
+      }
+    ]
+  },
+  {
+    "name": "角色_3",
+    "element": "冰",
+    "hobbies": [
+      "冥想",
+      "旅行"
+    ],
+    "kibot_partner": [
+      {
+        "species": "钢铁蝎",
+        "color": "黄",
+        "bond_level": 8,
+        "coordinates": [
+          -61.82,
+          -5.34
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "蓝",
+        "bond_level": 5,
+        "coordinates": [
+          158.02,
+          -24.8
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 6,
+        "coordinates": [
+          66.64,
+          -38.41
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "紫",
+        "bond_level": 7,
+        "coordinates": [
+          105.89,
+          25.77
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "靛",
+        "bond_level": 4,
+        "coordinates": [
+          -79.04,
+          33.8
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "银",
+        "bond_level": 5,
+        "coordinates": [
+          93.05,
+          -8.19
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "白",
+        "bond_level": 4,
+        "coordinates": [
+          128.6,
+          -30.41
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "银",
+        "bond_level": 5,
+        "coordinates": [
+          111.43,
+          -20.73
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "蓝",
+        "bond_level": 2,
+        "coordinates": [
+          -23.44,
+          46.57
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 8,
+        "coordinates": [
+          -125.79,
+          13.82
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "金",
+        "bond_level": 1,
+        "coordinates": [
+          147.09,
+          82.5
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "白",
+        "bond_level": 10,
+        "coordinates": [
+          -39.82,
+          -14.84
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "靛",
+        "bond_level": 5,
+        "coordinates": [
+          153.29,
+          -3.64
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 6,
+        "coordinates": [
+          66.64,
+          -38.41
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "靛",
+        "bond_level": 4,
+        "coordinates": [
+          -79.04,
+          33.8
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "黑",
+        "bond_level": 4,
+        "coordinates": [
+          42.56,
+          41.01
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "银",
+        "bond_level": 10,
+        "coordinates": [
+          73.14,
+          14.42
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "绿",
+        "bond_level": 1,
+        "coordinates": [
+          153.46,
+          -50.05
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "白",
+        "bond_level": 10,
+        "coordinates": [
+          -39.82,
+          -14.84
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "粉",
+        "bond_level": 4,
+        "coordinates": [
+          68.49,
+          -11.78
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "蓝",
+        "bond_level": 7,
+        "coordinates": [
+          -6.62,
+          -33.75
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "白",
+        "bond_level": 9,
+        "coordinates": [
+          141.64,
+          8.22
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "紫",
+        "bond_level": 5,
+        "coordinates": [
+          122.64,
+          84.17
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "靛",
+        "bond_level": 6,
+        "coordinates": [
+          -19.44,
+          40.61
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "绿",
+        "bond_level": 10,
+        "coordinates": [
+          178.61,
+          -23.7
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "白",
+        "bond_level": 10,
+        "coordinates": [
+          -39.82,
+          -14.84
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "橙",
+        "bond_level": 9,
+        "coordinates": [
+          22.9,
+          -72.51
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "金",
+        "bond_level": 1,
+        "coordinates": [
+          147.09,
+          82.5
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黄",
+        "bond_level": 8,
+        "coordinates": [
+          154.97,
+          41.05
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "靛",
+        "bond_level": 1,
+        "coordinates": [
+          141.98,
+          69.78
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 4,
+        "coordinates": [
+          45.57,
+          -51.26
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "红",
+        "bond_level": 10,
+        "coordinates": [
+          159.08,
+          -57.75
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "银",
+        "bond_level": 7,
+        "coordinates": [
+          -130.74,
+          -31.65
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "绿",
+        "bond_level": 4,
+        "coordinates": [
+          82.6,
+          -74.48
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "白",
+        "bond_level": 4,
+        "coordinates": [
+          128.6,
+          -30.41
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "白",
+        "bond_level": 1,
+        "coordinates": [
+          83.08,
+          -56.78
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "紫",
+        "bond_level": 5,
+        "coordinates": [
+          -44.16,
+          4.06
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 10,
+        "coordinates": [
+          10.37,
+          -76.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "金",
+        "bond_level": 1,
+        "coordinates": [
+          165.59,
+          19.98
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "紫",
+        "bond_level": 3,
+        "coordinates": [
+          35.55,
+          18.34
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "靛",
+        "bond_level": 1,
+        "coordinates": [
+          141.98,
+          69.78
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "黑",
+        "bond_level": 9,
+        "coordinates": [
+          -120.16,
+          48.03
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "紫",
+        "bond_level": 10,
+        "coordinates": [
+          -86.5,
+          -18.03
+        ],
+        "is_friendly": false
+      }
+    ]
+  },
+  {
+    "name": "角色_4",
+    "element": "土",
+    "hobbies": [
+      "跳舞",
+      "读书"
+    ],
+    "kibot_partner": [
+      {
+        "species": "光之鹿",
+        "color": "黑",
+        "bond_level": 4,
+        "coordinates": [
+          -132.6,
+          55.99
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "紫",
+        "bond_level": 10,
+        "coordinates": [
+          -121.07,
+          -40.69
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "黄",
+        "bond_level": 3,
+        "coordinates": [
+          -83.86,
+          1.16
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "粉",
+        "bond_level": 10,
+        "coordinates": [
+          -150.26,
+          1.8
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黄",
+        "bond_level": 2,
+        "coordinates": [
+          -108.3,
+          41.13
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "白",
+        "bond_level": 7,
+        "coordinates": [
+          76.85,
+          35.27
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "黑",
+        "bond_level": 9,
+        "coordinates": [
+          3.02,
+          -66.47
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "黑",
+        "bond_level": 9,
+        "coordinates": [
+          3.02,
+          -66.47
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "黄",
+        "bond_level": 9,
+        "coordinates": [
+          -112.5,
+          -63.85
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "粉",
+        "bond_level": 9,
+        "coordinates": [
+          169.63,
+          -49.23
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "绿",
+        "bond_level": 8,
+        "coordinates": [
+          -31.56,
+          26.22
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "银",
+        "bond_level": 5,
+        "coordinates": [
+          -51.98,
+          29.78
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "粉",
+        "bond_level": 9,
+        "coordinates": [
+          169.63,
+          -49.23
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 7,
+        "coordinates": [
+          29.74,
+          -67.4
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          -63.35,
+          -31.19
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "橙",
+        "bond_level": 4,
+        "coordinates": [
+          -133.25,
+          0.33
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "粉",
+        "bond_level": 10,
+        "coordinates": [
+          -150.26,
+          1.8
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "白",
+        "bond_level": 1,
+        "coordinates": [
+          -93.32,
+          -79.81
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "黄",
+        "bond_level": 10,
+        "coordinates": [
+          -89.14,
+          -0.77
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "橙",
+        "bond_level": 3,
+        "coordinates": [
+          65.6,
+          39.14
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "红",
+        "bond_level": 5,
+        "coordinates": [
+          -117.18,
+          -48.2
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "金",
+        "bond_level": 1,
+        "coordinates": [
+          -7.09,
+          45.61
+        ],
+        "is_friendly": false
+      }
+    ]
+  },
+  {
+    "name": "角色_5",
+    "element": "草",
+    "hobbies": [
+      "战斗",
+      "跳舞"
+    ],
+    "kibot_partner": [
+      {
+        "species": "水流蛇",
+        "color": "紫",
+        "bond_level": 7,
+        "coordinates": [
+          123.93,
+          0.48
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          -1.21,
+          -30.27
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "白",
+        "bond_level": 2,
+        "coordinates": [
+          -162.65,
+          88.36
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          5.84,
+          45.01
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "靛",
+        "bond_level": 4,
+        "coordinates": [
+          -178.1,
+          -80.53
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "靛",
+        "bond_level": 7,
+        "coordinates": [
+          -106.61,
+          -63.05
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          -1.21,
+          -30.27
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          5.84,
+          45.01
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "紫",
+        "bond_level": 8,
+        "coordinates": [
+          97.89,
+          71.14
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "白",
+        "bond_level": 2,
+        "coordinates": [
+          102.92,
+          -13.87
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "粉",
+        "bond_level": 2,
+        "coordinates": [
+          91.4,
+          -45.8
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "白",
+        "bond_level": 2,
+        "coordinates": [
+          -162.65,
+          88.36
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          -115.33,
+          12.36
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "红",
+        "bond_level": 2,
+        "coordinates": [
+          58.25,
+          32.09
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "金",
+        "bond_level": 4,
+        "coordinates": [
+          62.85,
+          24.42
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "黄",
+        "bond_level": 7,
+        "coordinates": [
+          155.7,
+          -36.09
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "黑",
+        "bond_level": 6,
+        "coordinates": [
+          144.98,
+          -5.44
+        ],
+        "is_friendly": true
+      }
+    ]
+  },
+  {
+    "name": "角色_6",
+    "element": "雷",
+    "hobbies": [
+      "探险",
+      "收集"
+    ],
+    "kibot_partner": [
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 8,
+        "coordinates": [
+          -178.75,
+          -20.18
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "靛",
+        "bond_level": 6,
+        "coordinates": [
+          76.24,
+          50.26
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          103.51,
+          28.71
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "红",
+        "bond_level": 3,
+        "coordinates": [
+          20.04,
+          68.0
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "靛",
+        "bond_level": 2,
+        "coordinates": [
+          139.65,
+          -86.23
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "黄",
+        "bond_level": 1,
+        "coordinates": [
+          102.28,
+          62.02
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 9,
+        "coordinates": [
+          141.31,
+          -10.11
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "绿",
+        "bond_level": 3,
+        "coordinates": [
+          138.99,
+          33.18
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          -98.23,
+          -39.42
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "银",
+        "bond_level": 4,
+        "coordinates": [
+          25.22,
+          -11.51
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "橙",
+        "bond_level": 3,
+        "coordinates": [
+          131.6,
+          85.97
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 1,
+        "coordinates": [
+          -83.52,
+          8.45
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "银",
+        "bond_level": 8,
+        "coordinates": [
+          -89.65,
+          -57.88
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "黑",
+        "bond_level": 2,
+        "coordinates": [
+          -144.0,
+          -10.58
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 1,
+        "coordinates": [
+          -83.52,
+          8.45
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "银",
+        "bond_level": 4,
+        "coordinates": [
+          25.22,
+          -11.51
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "靛",
+        "bond_level": 4,
+        "coordinates": [
+          86.53,
+          -47.83
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 8,
+        "coordinates": [
+          -178.75,
+          -20.18
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "银",
+        "bond_level": 1,
+        "coordinates": [
+          -67.0,
+          57.79
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "黑",
+        "bond_level": 7,
+        "coordinates": [
+          24.56,
+          11.95
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "靛",
+        "bond_level": 6,
+        "coordinates": [
+          76.24,
+          50.26
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "蓝",
+        "bond_level": 2,
+        "coordinates": [
+          54.66,
+          -26.1
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "黑",
+        "bond_level": 6,
+        "coordinates": [
+          -152.07,
+          -89.44
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "紫",
+        "bond_level": 10,
+        "coordinates": [
+          -50.34,
+          59.37
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "粉",
+        "bond_level": 3,
+        "coordinates": [
+          68.0,
+          24.65
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          -56.82,
+          -23.32
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "粉",
+        "bond_level": 5,
+        "coordinates": [
+          -102.1,
+          10.08
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          -87.8,
+          60.14
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "银",
+        "bond_level": 8,
+        "coordinates": [
+          -89.65,
+          -57.88
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "绿",
+        "bond_level": 9,
+        "coordinates": [
+          2.78,
+          -69.67
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "紫",
+        "bond_level": 5,
+        "coordinates": [
+          48.29,
+          -22.03
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黄",
+        "bond_level": 10,
+        "coordinates": [
+          39.9,
+          -35.03
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "紫",
+        "bond_level": 10,
+        "coordinates": [
+          -50.34,
+          59.37
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "靛",
+        "bond_level": 2,
+        "coordinates": [
+          139.65,
+          -86.23
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          -98.23,
+          -39.42
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "银",
+        "bond_level": 1,
+        "coordinates": [
+          -67.0,
+          57.79
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "粉",
+        "bond_level": 7,
+        "coordinates": [
+          24.27,
+          -45.71
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          -98.23,
+          -39.42
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "绿",
+        "bond_level": 5,
+        "coordinates": [
+          20.1,
+          -41.7
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "金",
+        "bond_level": 2,
+        "coordinates": [
+          85.55,
+          -44.94
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "金",
+        "bond_level": 1,
+        "coordinates": [
+          -41.83,
+          81.47
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          -137.51,
+          -0.72
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "粉",
+        "bond_level": 6,
+        "coordinates": [
+          159.78,
+          -59.17
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "粉",
+        "bond_level": 7,
+        "coordinates": [
+          24.27,
+          -45.71
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "蓝",
+        "bond_level": 6,
+        "coordinates": [
+          -40.76,
+          0.29
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "粉",
+        "bond_level": 5,
+        "coordinates": [
+          -102.1,
+          10.08
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "黑",
+        "bond_level": 2,
+        "coordinates": [
+          -144.0,
+          -10.58
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "紫",
+        "bond_level": 7,
+        "coordinates": [
+          -103.43,
+          16.72
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "粉",
+        "bond_level": 3,
+        "coordinates": [
+          68.0,
+          24.65
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "白",
+        "bond_level": 10,
+        "coordinates": [
+          31.81,
+          83.96
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "金",
+        "bond_level": 2,
+        "coordinates": [
+          -130.89,
+          -28.66
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "橙",
+        "bond_level": 3,
+        "coordinates": [
+          -30.07,
+          -3.97
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "粉",
+        "bond_level": 3,
+        "coordinates": [
+          68.0,
+          24.65
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          -87.8,
+          60.14
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "金",
+        "bond_level": 2,
+        "coordinates": [
+          85.55,
+          -44.94
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "黑",
+        "bond_level": 3,
+        "coordinates": [
+          143.07,
+          -39.81
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          -56.82,
+          -23.32
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "黑",
+        "bond_level": 6,
+        "coordinates": [
+          -152.07,
+          -89.44
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "靛",
+        "bond_level": 8,
+        "coordinates": [
+          107.06,
+          -87.17
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "紫",
+        "bond_level": 6,
+        "coordinates": [
+          131.66,
+          77.64
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          103.51,
+          28.71
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "靛",
+        "bond_level": 8,
+        "coordinates": [
+          107.06,
+          -87.17
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          -87.8,
+          60.14
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          81.81,
+          -14.94
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "黄",
+        "bond_level": 4,
+        "coordinates": [
+          139.14,
+          29.44
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "黄",
+        "bond_level": 4,
+        "coordinates": [
+          139.14,
+          29.44
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "绿",
+        "bond_level": 1,
+        "coordinates": [
+          127.32,
+          -84.67
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -136.59,
+          84.59
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "黑",
+        "bond_level": 10,
+        "coordinates": [
+          -54.49,
+          76.48
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "蓝",
+        "bond_level": 8,
+        "coordinates": [
+          128.24,
+          34.23
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "蓝",
+        "bond_level": 6,
+        "coordinates": [
+          -40.76,
+          0.29
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "黄",
+        "bond_level": 4,
+        "coordinates": [
+          145.91,
+          -43.98
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "粉",
+        "bond_level": 9,
+        "coordinates": [
+          81.62,
+          -51.21
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 9,
+        "coordinates": [
+          141.31,
+          -10.11
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "白",
+        "bond_level": 10,
+        "coordinates": [
+          -144.19,
+          -47.12
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "紫",
+        "bond_level": 10,
+        "coordinates": [
+          -50.34,
+          59.37
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "绿",
+        "bond_level": 3,
+        "coordinates": [
+          138.99,
+          33.18
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 8,
+        "coordinates": [
+          118.27,
+          34.56
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "金",
+        "bond_level": 2,
+        "coordinates": [
+          85.55,
+          -44.94
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "白",
+        "bond_level": 2,
+        "coordinates": [
+          -27.57,
+          -3.93
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 8,
+        "coordinates": [
+          118.27,
+          34.56
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          120.49,
+          26.45
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 3,
+        "coordinates": [
+          9.57,
+          54.68
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "橙",
+        "bond_level": 8,
+        "coordinates": [
+          -45.28,
+          -18.96
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          -56.82,
+          -23.32
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "靛",
+        "bond_level": 8,
+        "coordinates": [
+          107.06,
+          -87.17
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "黄",
+        "bond_level": 4,
+        "coordinates": [
+          145.91,
+          -43.98
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "紫",
+        "bond_level": 2,
+        "coordinates": [
+          100.04,
+          -68.26
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 7,
+        "coordinates": [
+          123.0,
+          -26.33
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "蓝",
+        "bond_level": 2,
+        "coordinates": [
+          -65.76,
+          83.46
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          -137.51,
+          -0.72
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "粉",
+        "bond_level": 10,
+        "coordinates": [
+          40.99,
+          -54.98
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          103.51,
+          28.71
+        ],
+        "is_friendly": false
+      }
+    ]
+  },
+  {
+    "name": "角色_7",
+    "element": "暗",
+    "hobbies": [
+      "跳舞",
+      "旅行",
+      "探险",
+      "培育"
+    ],
+    "kibot_partner": [
+      {
+        "species": "光之鹿",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          34.54,
+          0.52
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 5,
+        "coordinates": [
+          52.68,
+          4.26
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          -57.02,
+          -35.27
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "靛",
+        "bond_level": 3,
+        "coordinates": [
+          79.72,
+          57.79
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "靛",
+        "bond_level": 2,
+        "coordinates": [
+          -85.42,
+          26.35
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "金",
+        "bond_level": 4,
+        "coordinates": [
+          -142.25,
+          -17.68
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          -135.79,
+          -20.62
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 5,
+        "coordinates": [
+          52.68,
+          4.26
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "黄",
+        "bond_level": 4,
+        "coordinates": [
+          -109.26,
+          80.05
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -103.23,
+          89.24
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          67.81,
+          -45.09
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          67.81,
+          -45.09
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          34.54,
+          0.52
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "白",
+        "bond_level": 4,
+        "coordinates": [
+          -95.08,
+          -55.52
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "粉",
+        "bond_level": 6,
+        "coordinates": [
+          -24.57,
+          64.62
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "银",
+        "bond_level": 6,
+        "coordinates": [
+          107.09,
+          -24.03
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "银",
+        "bond_level": 4,
+        "coordinates": [
+          70.84,
+          24.53
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "靛",
+        "bond_level": 2,
+        "coordinates": [
+          -85.42,
+          26.35
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 2,
+        "coordinates": [
+          104.1,
+          -58.38
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "银",
+        "bond_level": 2,
+        "coordinates": [
+          -56.64,
+          54.05
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "黄",
+        "bond_level": 4,
+        "coordinates": [
+          -138.16,
+          43.14
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "蓝",
+        "bond_level": 2,
+        "coordinates": [
+          142.38,
+          -69.76
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "金",
+        "bond_level": 1,
+        "coordinates": [
+          -53.44,
+          -10.32
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "银",
+        "bond_level": 2,
+        "coordinates": [
+          68.29,
+          -43.59
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          -149.22,
+          -62.44
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "白",
+        "bond_level": 9,
+        "coordinates": [
+          75.3,
+          -45.21
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "橙",
+        "bond_level": 9,
+        "coordinates": [
+          38.97,
+          -40.48
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "黄",
+        "bond_level": 8,
+        "coordinates": [
+          -27.01,
+          -84.73
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -103.23,
+          89.24
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "粉",
+        "bond_level": 4,
+        "coordinates": [
+          122.46,
+          -31.55
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "银",
+        "bond_level": 6,
+        "coordinates": [
+          107.09,
+          -24.03
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "红",
+        "bond_level": 1,
+        "coordinates": [
+          41.56,
+          -70.89
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "蓝",
+        "bond_level": 6,
+        "coordinates": [
+          66.96,
+          66.18
+        ],
+        "is_friendly": true
+      }
+    ]
+  },
+  {
+    "name": "角色_8",
+    "element": "暗",
+    "hobbies": [
+      "音乐",
+      "旅行"
+    ],
+    "kibot_partner": [
+      {
+        "species": "火焰龙",
+        "color": "紫",
+        "bond_level": 3,
+        "coordinates": [
+          2.44,
+          -84.77
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          148.74,
+          9.03
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "橙",
+        "bond_level": 1,
+        "coordinates": [
+          157.09,
+          63.56
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "橙",
+        "bond_level": 8,
+        "coordinates": [
+          146.02,
+          86.26
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "蓝",
+        "bond_level": 5,
+        "coordinates": [
+          -139.19,
+          -7.05
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "绿",
+        "bond_level": 2,
+        "coordinates": [
+          -111.69,
+          80.68
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "橙",
+        "bond_level": 8,
+        "coordinates": [
+          -161.59,
+          -81.88
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "紫",
+        "bond_level": 3,
+        "coordinates": [
+          2.44,
+          -84.77
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "银",
+        "bond_level": 8,
+        "coordinates": [
+          -75.77,
+          -79.98
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 3,
+        "coordinates": [
+          10.6,
+          -21.19
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "靛",
+        "bond_level": 10,
+        "coordinates": [
+          154.35,
+          -18.01
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "蓝",
+        "bond_level": 2,
+        "coordinates": [
+          169.22,
+          6.45
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "紫",
+        "bond_level": 6,
+        "coordinates": [
+          -89.19,
+          82.05
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "金",
+        "bond_level": 4,
+        "coordinates": [
+          -157.91,
+          -70.27
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          89.18,
+          1.1
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "粉",
+        "bond_level": 9,
+        "coordinates": [
+          164.94,
+          65.71
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "橙",
+        "bond_level": 8,
+        "coordinates": [
+          146.02,
+          86.26
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "紫",
+        "bond_level": 1,
+        "coordinates": [
+          -44.84,
+          30.27
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黄",
+        "bond_level": 4,
+        "coordinates": [
+          -45.92,
+          44.7
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "靛",
+        "bond_level": 8,
+        "coordinates": [
+          -44.66,
+          -64.53
+        ],
+        "is_friendly": true
+      }
+    ]
+  },
+  {
+    "name": "角色_9",
+    "element": "水",
+    "hobbies": [
+      "战斗",
+      "收集",
+      "绘画",
+      "培育",
+      "音乐"
+    ],
+    "kibot_partner": [
+      {
+        "species": "幽灵蝠",
+        "color": "红",
+        "bond_level": 6,
+        "coordinates": [
+          -44.5,
+          41.37
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -79.0,
+          17.37
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          -65.99,
+          4.71
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "靛",
+        "bond_level": 5,
+        "coordinates": [
+          -157.48,
+          -70.17
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          -47.31,
+          20.34
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 4,
+        "coordinates": [
+          -51.53,
+          15.35
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "粉",
+        "bond_level": 3,
+        "coordinates": [
+          151.58,
+          -31.42
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "蓝",
+        "bond_level": 4,
+        "coordinates": [
+          -128.24,
+          -52.59
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "紫",
+        "bond_level": 1,
+        "coordinates": [
+          126.8,
+          -52.5
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "粉",
+        "bond_level": 3,
+        "coordinates": [
+          -123.43,
+          56.01
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "黄",
+        "bond_level": 7,
+        "coordinates": [
+          6.79,
+          32.65
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "银",
+        "bond_level": 5,
+        "coordinates": [
+          -174.54,
+          73.91
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          172.29,
+          56.98
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 1,
+        "coordinates": [
+          -20.46,
+          -35.64
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "粉",
+        "bond_level": 10,
+        "coordinates": [
+          11.18,
+          1.07
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "紫",
+        "bond_level": 10,
+        "coordinates": [
+          -22.71,
+          3.78
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "红",
+        "bond_level": 5,
+        "coordinates": [
+          -93.73,
+          5.32
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "金",
+        "bond_level": 10,
+        "coordinates": [
+          -47.31,
+          20.34
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "靛",
+        "bond_level": 3,
+        "coordinates": [
+          178.63,
+          50.93
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "靛",
+        "bond_level": 6,
+        "coordinates": [
+          -36.07,
+          83.6
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "蓝",
+        "bond_level": 4,
+        "coordinates": [
+          96.51,
+          52.53
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "橙",
+        "bond_level": 5,
+        "coordinates": [
+          47.03,
+          80.18
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "金",
+        "bond_level": 2,
+        "coordinates": [
+          85.12,
+          -2.36
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "银",
+        "bond_level": 5,
+        "coordinates": [
+          165.15,
+          -0.49
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "紫",
+        "bond_level": 5,
+        "coordinates": [
+          -178.2,
+          79.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "蓝",
+        "bond_level": 4,
+        "coordinates": [
+          -128.24,
+          -52.59
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "粉",
+        "bond_level": 7,
+        "coordinates": [
+          -1.17,
+          22.56
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "粉",
+        "bond_level": 6,
+        "coordinates": [
+          -140.03,
+          -43.27
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "白",
+        "bond_level": 6,
+        "coordinates": [
+          69.67,
+          -23.91
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 4,
+        "coordinates": [
+          123.87,
+          50.45
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          -65.99,
+          4.71
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "黑",
+        "bond_level": 3,
+        "coordinates": [
+          -94.53,
+          -85.62
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "红",
+        "bond_level": 1,
+        "coordinates": [
+          -20.46,
+          -35.64
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "靛",
+        "bond_level": 6,
+        "coordinates": [
+          -121.13,
+          29.81
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "白",
+        "bond_level": 8,
+        "coordinates": [
+          101.8,
+          -71.9
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "白",
+        "bond_level": 10,
+        "coordinates": [
+          -28.81,
+          54.95
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 6,
+        "coordinates": [
+          -62.55,
+          25.09
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "红",
+        "bond_level": 2,
+        "coordinates": [
+          -43.79,
+          19.57
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 5,
+        "coordinates": [
+          -166.58,
+          -66.28
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "蓝",
+        "bond_level": 5,
+        "coordinates": [
+          -166.58,
+          -66.28
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "紫",
+        "bond_level": 5,
+        "coordinates": [
+          -178.2,
+          79.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "粉",
+        "bond_level": 7,
+        "coordinates": [
+          -150.15,
+          55.0
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "紫",
+        "bond_level": 9,
+        "coordinates": [
+          167.52,
+          26.46
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "粉",
+        "bond_level": 4,
+        "coordinates": [
+          81.12,
+          -67.47
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "白",
+        "bond_level": 4,
+        "coordinates": [
+          -132.2,
+          69.04
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "银",
+        "bond_level": 5,
+        "coordinates": [
+          9.61,
+          30.56
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          -121.85,
+          18.64
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "金",
+        "bond_level": 2,
+        "coordinates": [
+          85.12,
+          -2.36
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "金",
+        "bond_level": 4,
+        "coordinates": [
+          -140.14,
+          -47.79
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "绿",
+        "bond_level": 10,
+        "coordinates": [
+          -9.47,
+          -59.06
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "银",
+        "bond_level": 5,
+        "coordinates": [
+          -174.54,
+          73.91
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "绿",
+        "bond_level": 5,
+        "coordinates": [
+          48.35,
+          -69.22
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "靛",
+        "bond_level": 6,
+        "coordinates": [
+          -121.13,
+          29.81
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "黄",
+        "bond_level": 5,
+        "coordinates": [
+          -150.59,
+          31.35
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "金",
+        "bond_level": 8,
+        "coordinates": [
+          -142.33,
+          -0.05
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "银",
+        "bond_level": 5,
+        "coordinates": [
+          -174.54,
+          73.91
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "黄",
+        "bond_level": 8,
+        "coordinates": [
+          16.91,
+          32.75
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "绿",
+        "bond_level": 5,
+        "coordinates": [
+          48.35,
+          -69.22
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 6,
+        "coordinates": [
+          -62.55,
+          25.09
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "黑",
+        "bond_level": 3,
+        "coordinates": [
+          104.15,
+          -71.06
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "靛",
+        "bond_level": 3,
+        "coordinates": [
+          178.63,
+          50.93
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 4,
+        "coordinates": [
+          -51.53,
+          15.35
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -79.0,
+          17.37
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "绿",
+        "bond_level": 1,
+        "coordinates": [
+          26.57,
+          -20.08
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "靛",
+        "bond_level": 5,
+        "coordinates": [
+          -157.48,
+          -70.17
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "岩石龟",
+        "color": "金",
+        "bond_level": 7,
+        "coordinates": [
+          -30.96,
+          -25.72
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 6,
+        "coordinates": [
+          -62.55,
+          25.09
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "白",
+        "bond_level": 6,
+        "coordinates": [
+          69.67,
+          -23.91
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "红",
+        "bond_level": 9,
+        "coordinates": [
+          -78.39,
+          -0.86
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "绿",
+        "bond_level": 2,
+        "coordinates": [
+          -90.87,
+          -66.55
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "黄",
+        "bond_level": 2,
+        "coordinates": [
+          -128.45,
+          22.81
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "绿",
+        "bond_level": 4,
+        "coordinates": [
+          20.73,
+          -87.19
+        ],
+        "is_friendly": false
+      }
+    ]
+  },
+  {
+    "name": "角色_10",
+    "element": "冰",
+    "hobbies": [
+      "音乐",
+      "烹饪"
+    ],
+    "kibot_partner": [
+      {
+        "species": "水流蛇",
+        "color": "橙",
+        "bond_level": 9,
+        "coordinates": [
+          137.03,
+          -10.82
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "绿",
+        "bond_level": 1,
+        "coordinates": [
+          20.56,
+          -62.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 1,
+        "coordinates": [
+          91.11,
+          2.59
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "火焰龙",
+        "color": "银",
+        "bond_level": 2,
+        "coordinates": [
+          -50.38,
+          54.08
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          -92.28,
+          -26.58
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "红",
+        "bond_level": 1,
+        "coordinates": [
+          111.48,
+          -84.75
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 10,
+        "coordinates": [
+          -154.42,
+          43.07
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 7,
+        "coordinates": [
+          -108.61,
+          29.45
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "橙",
+        "bond_level": 7,
+        "coordinates": [
+          56.99,
+          77.04
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 10,
+        "coordinates": [
+          -176.86,
+          26.05
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "金",
+        "bond_level": 8,
+        "coordinates": [
+          -20.43,
+          39.68
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "白",
+        "bond_level": 4,
+        "coordinates": [
+          -119.11,
+          7.18
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "银",
+        "bond_level": 8,
+        "coordinates": [
+          -7.58,
+          1.38
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          -45.34,
+          -20.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "银",
+        "bond_level": 7,
+        "coordinates": [
+          -0.11,
+          30.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "靛",
+        "bond_level": 8,
+        "coordinates": [
+          -176.1,
+          57.13
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "黑",
+        "bond_level": 8,
+        "coordinates": [
+          3.68,
+          -60.65
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "橙",
+        "bond_level": 8,
+        "coordinates": [
+          18.14,
+          -8.38
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "雷电鹰",
+        "color": "金",
+        "bond_level": 8,
+        "coordinates": [
+          -20.43,
+          39.68
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          -26.4,
+          -12.52
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          -64.33,
+          -3.94
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "白",
+        "bond_level": 7,
+        "coordinates": [
+          -72.2,
+          72.45
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "橙",
+        "bond_level": 9,
+        "coordinates": [
+          167.41,
+          -35.4
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "银",
+        "bond_level": 8,
+        "coordinates": [
+          98.55,
+          -48.7
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "紫",
+        "bond_level": 3,
+        "coordinates": [
+          55.21,
+          -87.59
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "绿",
+        "bond_level": 5,
+        "coordinates": [
+          -75.72,
+          77.33
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "紫",
+        "bond_level": 5,
+        "coordinates": [
+          -7.04,
+          47.25
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 6,
+        "coordinates": [
+          104.14,
+          -65.25
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "白",
+        "bond_level": 2,
+        "coordinates": [
+          -21.66,
+          33.22
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "紫",
+        "bond_level": 4,
+        "coordinates": [
+          -54.28,
+          26.52
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "冰霜狐",
+        "color": "绿",
+        "bond_level": 7,
+        "coordinates": [
+          -135.72,
+          -69.9
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          146.54,
+          -86.14
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "蓝",
+        "bond_level": 7,
+        "coordinates": [
+          -120.51,
+          27.15
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "草木灵",
+        "color": "银",
+        "bond_level": 3,
+        "coordinates": [
+          -38.72,
+          27.86
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 10,
+        "coordinates": [
+          -154.42,
+          43.07
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "紫",
+        "bond_level": 9,
+        "coordinates": [
+          -64.54,
+          22.74
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "绿",
+        "bond_level": 2,
+        "coordinates": [
+          21.31,
+          36.71
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "白",
+        "bond_level": 2,
+        "coordinates": [
+          -21.66,
+          33.22
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 8,
+        "coordinates": [
+          -63.7,
+          51.89
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黑",
+        "bond_level": 7,
+        "coordinates": [
+          5.1,
+          -26.27
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "红",
+        "bond_level": 1,
+        "coordinates": [
+          111.48,
+          -84.75
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "紫",
+        "bond_level": 4,
+        "coordinates": [
+          -54.28,
+          26.52
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "白",
+        "bond_level": 2,
+        "coordinates": [
+          -21.66,
+          33.22
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "白",
+        "bond_level": 4,
+        "coordinates": [
+          -119.11,
+          7.18
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黄",
+        "bond_level": 5,
+        "coordinates": [
+          -133.83,
+          -84.85
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "紫",
+        "bond_level": 4,
+        "coordinates": [
+          -54.28,
+          26.52
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          -64.33,
+          -3.94
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "火焰龙",
+        "color": "橙",
+        "bond_level": 6,
+        "coordinates": [
+          -131.11,
+          -87.17
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "粉",
+        "bond_level": 8,
+        "coordinates": [
+          42.16,
+          -43.01
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "冰霜狐",
+        "color": "橙",
+        "bond_level": 8,
+        "coordinates": [
+          18.14,
+          -8.38
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "金",
+        "bond_level": 1,
+        "coordinates": [
+          101.99,
+          -87.65
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "黄",
+        "bond_level": 7,
+        "coordinates": [
+          -69.46,
+          -63.36
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "银",
+        "bond_level": 9,
+        "coordinates": [
+          -92.28,
+          -26.58
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "黄",
+        "bond_level": 6,
+        "coordinates": [
+          -104.11,
+          45.45
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "白",
+        "bond_level": 1,
+        "coordinates": [
+          -13.61,
+          -33.2
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "橙",
+        "bond_level": 9,
+        "coordinates": [
+          167.41,
+          -35.4
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "橙",
+        "bond_level": 6,
+        "coordinates": [
+          -82.48,
+          -60.89
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黄",
+        "bond_level": 5,
+        "coordinates": [
+          -133.83,
+          -84.85
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "红",
+        "bond_level": 1,
+        "coordinates": [
+          111.48,
+          -84.75
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          -45.34,
+          -20.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "蓝",
+        "bond_level": 10,
+        "coordinates": [
+          -45.34,
+          -20.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "草木灵",
+        "color": "紫",
+        "bond_level": 10,
+        "coordinates": [
+          136.22,
+          77.48
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "岩石龟",
+        "color": "橙",
+        "bond_level": 7,
+        "coordinates": [
+          39.56,
+          0.57
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 1,
+        "coordinates": [
+          76.15,
+          22.51
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "雷电鹰",
+        "color": "金",
+        "bond_level": 8,
+        "coordinates": [
+          -20.43,
+          39.68
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 4,
+        "coordinates": [
+          -143.38,
+          -6.24
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "橙",
+        "bond_level": 7,
+        "coordinates": [
+          -108.61,
+          29.45
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 10,
+        "coordinates": [
+          -154.42,
+          43.07
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -26.3,
+          -1.59
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "橙",
+        "bond_level": 9,
+        "coordinates": [
+          137.03,
+          -10.82
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 4,
+        "coordinates": [
+          -143.38,
+          -6.24
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "绿",
+        "bond_level": 1,
+        "coordinates": [
+          20.56,
+          -62.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "银",
+        "bond_level": 8,
+        "coordinates": [
+          -7.58,
+          1.38
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "红",
+        "bond_level": 1,
+        "coordinates": [
+          111.48,
+          -84.75
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "光之鹿",
+        "color": "绿",
+        "bond_level": 2,
+        "coordinates": [
+          21.31,
+          36.71
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -26.3,
+          -1.59
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "黑",
+        "bond_level": 7,
+        "coordinates": [
+          5.1,
+          -26.27
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 10,
+        "coordinates": [
+          -154.42,
+          43.07
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "绿",
+        "bond_level": 1,
+        "coordinates": [
+          20.56,
+          -62.25
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "幽灵蝠",
+        "color": "黑",
+        "bond_level": 3,
+        "coordinates": [
+          -12.74,
+          -47.99
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "红",
+        "bond_level": 10,
+        "coordinates": [
+          -176.86,
+          26.05
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "水流蛇",
+        "color": "银",
+        "bond_level": 8,
+        "coordinates": [
+          -7.58,
+          1.38
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "暗影狼",
+        "color": "蓝",
+        "bond_level": 9,
+        "coordinates": [
+          39.65,
+          -49.84
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "水流蛇",
+        "color": "银",
+        "bond_level": 8,
+        "coordinates": [
+          -7.58,
+          1.38
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "光之鹿",
+        "color": "靛",
+        "bond_level": 10,
+        "coordinates": [
+          9.67,
+          71.52
+        ],
+        "is_friendly": false
+      },
+      {
+        "species": "钢铁蝎",
+        "color": "银",
+        "bond_level": 4,
+        "coordinates": [
+          -143.38,
+          -6.24
+        ],
+        "is_friendly": true
+      },
+      {
+        "species": "暗影狼",
+        "color": "金",
+        "bond_level": 3,
+        "coordinates": [
+          -26.3,
+          -1.59
+        ],
+        "is_friendly": true
+      }
+    ]
+  }
+]
