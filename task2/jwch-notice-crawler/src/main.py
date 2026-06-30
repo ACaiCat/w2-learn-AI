@@ -78,9 +78,12 @@ def get_notice_list(notices: list[Notice], path: str) -> None:
     jxtz_tags: ResultSet[Tag] = jxtz_soup.find("ul", class_="list-gl").find_all("li")  # type: ignore
 
     for tag in jxtz_tags:
-        title = tag.find("a").get("title")
+        title = tag.find("a").get("title")  # type: ignore
+        assert title is not None
+        # “ 是为了匹配标题
+        keywords = ["转专业", "“嘉锡化学", "“数智", "“数理综合", "“数理金融"]
 
-        if "转专业" not in title:
+        if not any(keyword in title for keyword in keywords):
             continue
         notices.append(
             Notice(
@@ -142,14 +145,27 @@ def export_notices_files(notices: list[Notice], path: Path):
                     response = client.get(attach.path)
 
                     file_dir = "其他"
-                    if "细则" in attach.name:
+                    target_text = notice.title + " " + attach.name
+
+                    if "细则" in target_text:
                         file_dir = "转专业细则"
-                    elif "名单" in attach.name:
-                        file_dir = "转专业公示名单"
-                    elif "实施办法" in attach.name:
+                    elif "名单" in target_text:
+                        file_dir = "转专业拟同意名单"
+                    elif "实施办法" in target_text:
                         file_dir = "转专业实施办法"
+                    elif "嘉锡化学" in target_text:
+                        file_dir = "实验班/嘉锡化学实验班"
+                    elif "数智" in target_text:
+                        file_dir = "实验班/数智实验班"
+                    elif "数理综合" in target_text:
+                        file_dir = "实验班/数理综合实验班"
+                    elif "数理金融" in target_text:
+                        file_dir = "实验班/数理金融实验班"
+
                     os.makedirs(path / file_dir / str(group.year), exist_ok=True)
-                    with open(path / file_dir / str(group.year) / attach.name, "wb") as file:
+                    with open(
+                        path / file_dir / str(group.year) / attach.name, "wb"
+                    ) as file:
                         file.write(response.read())
 
 
